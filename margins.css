@@ -32,3 +32,5 @@ main{padding:0 6%}
 .image-half{position:static;top:auto;margin-bottom:28px}
 .game:not(.illustrated) .section-copy{grid-row:1}
 }
+
+.image-credits{max-width:720px;margin:0 auto 48px;padding-top:24px;border-top:1px solid var(--line);color:var(--muted);font:12px/1.7 Arial,sans-serif}.image-credits h2{font:600 13px/1.6 Arial,sans-serif;letter-spacing:1px;margin:0 0 12px}.image-credits ul{padding-left:18px}.image-credits p{margin:0 0 10px}
